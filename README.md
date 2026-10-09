@@ -70,28 +70,28 @@ The commercial conversational AI sector features enterprise CRM-integrated syste
 
 ## 🔓 Open-Source GitHub Projects 🔓
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
-  **Open-source LLMOps & Agentic Workflow Platform**, Apache-2.0 licensed. **157K+ GitHub stars** — Visual workflow builder, built-in RAG pipelines, prompt orchestration, and 100+ LLM provider integrations. 🎨
+  **Open-source LLMOps & Agentic Workflow Platform**, Apache-2.0 licensed. **157K+ GitHub_Stars** — Visual workflow builder, built-in RAG pipelines, prompt orchestration, and 100+ LLM provider integrations. 🎨
 
 - **[Langflow](https://github.com/langflow-ai/langflow)** [![Stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=social&color=white)](https://github.com/langflow-ai/langflow/stargazers)  
-  **Visual Framework for Multi-Agent & RAG Applications**, MIT licensed. **155K+ GitHub stars** — Highly accessible drag-and-drop component builder for Python LLM applications and conversational agents. 🎯
+  **Visual Framework for Multi-Agent & RAG Applications**, MIT licensed. **155K+ GitHub_Stars** — Highly accessible drag-and-drop component builder for Python LLM applications and conversational agents. 🎯
 
 - **[Flowise](https://github.com/FlowiseAI/Flowise)** [![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
-  **Drag & Drop UI to Build LLM Apps**, MIT licensed. **55.5K+ GitHub stars** — Node.js-based visual builder for customizing LangChain pipelines, chatbot widgets, and vector search. ⚡
+  **Drag & Drop UI to Build LLM Apps**, MIT licensed. **55.5K+ GitHub_Stars** — Node.js-based visual builder for customizing LangChain pipelines, chatbot widgets, and vector search. ⚡
 
 - **[Rasa](https://github.com/RasaHQ/rasa)** [![Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)  
   **Enterprise Open-Source Conversational AI Framework**, Apache-2.0 licensed. **30M+ downloads** — Infrastructure for building contextual assistants with Rasa CALM (Conversational AI with LLMs), business flows, and full on-premises data control. 🏛️
 
 - **[Botpress v12](https://github.com/botpress/botpress)** [![Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
-  **Open-Source Modular Chatbot Engine**, AGPL-3.0 licensed. **11.5K+ GitHub stars** — Developer-first conversational framework featuring built-in NLU, visual flow manager, and broad channel messaging support. 🎨
+  **Open-Source Modular Chatbot Engine**, AGPL-3.0 licensed. **11.5K+ GitHub_Stars** — Developer-first conversational framework featuring built-in NLU, visual flow manager, and broad channel messaging support. 🎨
 
 - **[Pipecat](https://github.com/pipecat-ai/pipecat)** [![Stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social&color=white)](https://github.com/pipecat-ai/pipecat/stargazers)  
-  **Open-Source Framework for Voice & Multimodal AI Agents**, MIT licensed. **16.3K+ GitHub stars** — Real-time audio processing pipeline for building ultra-low latency voice chatbots, webRTC assistants, and phone agents. 🎙️
+  **Open-Source Framework for Voice & Multimodal AI Agents**, MIT licensed. **16.3K+ GitHub_Stars** — Real-time audio processing pipeline for building ultra-low latency voice chatbots, webRTC assistants, and phone agents. 🎙️
 
 - **[LiveKit Agents](https://github.com/livekit/agents)** [![Stars](https://img.shields.io/github/stars/livekit/agents?style=social&color=white)](https://github.com/livekit/agents/stargazers)  
-  **Real-Time Multimodal Voice & Video Agent Framework**, Apache-2.0 licensed. **14.6K+ GitHub stars** — Programmable infrastructure for building real-time voice and vision digital human assistants powered by WebRTC. 📹
+  **Real-Time Multimodal Voice & Video Agent Framework**, Apache-2.0 licensed. **14.6K+ GitHub_Stars** — Programmable infrastructure for building real-time voice and vision digital human assistants powered by WebRTC. 📹
 
 - **[Microsoft Bot Framework SDK](https://github.com/microsoft/botframework-sdk)** [![Stars](https://img.shields.io/github/stars/microsoft/botframework-sdk?style=social&color=white)](https://github.com/microsoft/botframework-sdk/stargazers)  
   **Enterprise SDK for Building Conversational Bots**, MIT licensed. **Bot Builder SDK for C#, Node.js, and Python** with direct connectors for Microsoft Teams, Web Chat, and Azure Bot Service. 🏢
